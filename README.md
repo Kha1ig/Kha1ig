@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kha1ig)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Kha1ig/Kha1ig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
